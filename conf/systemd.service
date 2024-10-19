@@ -7,7 +7,7 @@ Type=simple
 User=__APP__
 Group=__APP__
 WorkingDirectory=__INSTALL_DIR__/
-ExecStart=__INSTALL_DIR__/logdy listen 8080 --port=__PORT__
+ExecStart=__INSTALL_DIR__/logdy --port=__PORT__
 
 ### Depending on specificities of your service/app, you may need to tweak these
 ### .. but this should be a good baseline

@@ -24,7 +24,7 @@ Logdy est un binaire unique que vous ajoutez à votre PATH afin qu'il soit dispo
 
 ## Captures d’écran
 
-![Capture d’écran de Logdy](./doc/screenshots/example.jpg)
+![Capture d’écran de Logdy](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 

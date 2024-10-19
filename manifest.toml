@@ -1,0 +1,69 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
+packaging_format = 2
+
+id = "logdy"
+name = "Logdy"
+description.en = "Web based real-time log viewer"
+description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+
+version = "0.13.0~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "free"
+website = "https://logdy.dev/"
+demo = "https://demo.logdy.dev/"
+admindoc = "https://logdy.dev/docs/quick-start"
+code = "https://github.com/logdyhq/logdy-core"
+
+[integration]
+yunohost = ">= 11.2.30"
+helpers_version = "2.1"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/example"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+
+    [resources.sources]
+
+    [resources.sources.main]
+    in_subdir = false
+    rename = "logdy"
+    extract = false
+    url = "https://github.com/logdyhq/logdy-core/releases/download/v0.13.0/logdy_linux_amd64"
+    sha256 = "9a5c5ae93ac0b6a3a0f17a984297375a4d18c5c63102875f952e9861f6e64c4f"
+
+    # autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.data_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.ports]

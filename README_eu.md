@@ -24,7 +24,7 @@ Logdy is a single-binary that you add to your PATH so it's available just like a
 
 ## Pantaila-argazkiak
 
-![Logdy(r)en pantaila-argazkia](./doc/screenshots/example.jpg)
+![Logdy(r)en pantaila-argazkia](./doc/screenshots/screenshot.png)
 
 ## Dokumentazioa eta baliabideak
 

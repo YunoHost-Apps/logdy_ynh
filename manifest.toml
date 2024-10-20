@@ -12,7 +12,7 @@ version = "0.13.0~ynh1"
 maintainers = ["eric_G"]
 
 [upstream]
-license = "free"
+license = "Apache-2.0"
 website = "https://logdy.dev/"
 demo = "https://demo.logdy.dev/"
 admindoc = "https://logdy.dev/docs/quick-start"

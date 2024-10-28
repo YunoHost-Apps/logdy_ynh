@@ -18,7 +18,7 @@
 
 Logdy is a single-binary that you add to your PATH so it's available just like any other tool: grep, awk, sed, jq. No installations, no deployments, no compilations. It works locally, so it's also secure.
 
-**Поставляемая версия:** 0.13.0~ynh1
+**Поставляемая версия:** 0.13.0~ynh2
 
 **Демо-версия:** <https://demo.logdy.dev/>
 

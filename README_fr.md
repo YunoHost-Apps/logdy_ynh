@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 Logdy est un binaire unique que vous ajoutez à votre PATH afin qu'il soit disponible comme n'importe quel autre outil : grep, awk, sed, jq. Aucune installation, aucun déploiement, aucune compilation. Il fonctionne localement, il est donc également sécurisé.
 
-**Version incluse :** 0.13.0~ynh2
+**Version incluse :** 0.13.0~ynh3
 
 **Démo :** <https://demo.logdy.dev/>
 

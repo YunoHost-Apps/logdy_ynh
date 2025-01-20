@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Logdy para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/logdy.svg)](https://ci-apps.yunohost.org/ci/apps/logdy/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/logdy.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/logdy.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/logdy)](https://ci-apps.yunohost.org/ci/apps/logdy/)
+![Estado funcional](https://apps.yunohost.org/badge/state/logdy)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/logdy)
 
 [![Instalar Logdy con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=logdy)
 

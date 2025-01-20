@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Logdy untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/logdy.svg)](https://ci-apps.yunohost.org/ci/apps/logdy/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/logdy.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/logdy.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/logdy)](https://ci-apps.yunohost.org/ci/apps/logdy/)
+![Status kerja](https://apps.yunohost.org/badge/state/logdy)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/logdy)
 
 [![Pasang Logdy dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=logdy)
 

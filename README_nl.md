@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Logdy voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/logdy.svg)](https://ci-apps.yunohost.org/ci/apps/logdy/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/logdy.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/logdy.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/logdy)](https://ci-apps.yunohost.org/ci/apps/logdy/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/logdy)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/logdy)
 
 [![Logdy met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=logdy)
 

@@ -21,9 +21,6 @@ chmod +x "$install_dir/logdy"
 
 #ynh_config_add --template="some_config_file" --destination="$install_dir/some_config_file"
 
-#chmod 400 "$install_dir/some_config_file"
-#chown "$app:$app" "$install_dir/some_config_file"
-
 #=================================================
 # SYSTEM CONFIGURATION
 #=================================================

@@ -1,5 +1,5 @@
 [Unit]
-Description=Logdy
+Description=Logdy: real-time log viewer
 After=network.target
 
 [Service]
